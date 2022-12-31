@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    background-color: rgb(111, 83, 236);
+    border-radius: 0rem 1rem;
+    text-align: center;
+    margin: 1rem;
+    padding: 5rem;
+    color: antiquewhite;
+}
+#txt-input{
+    margin: 1rem;
+    padding: 1rem;
+    align-content: center;
+    width: 95%;
+    /* float: right; */
+    height: 10vh;
+    border-radius: 0rem 1rem 0rem;
+}
+div{
+    margin: 1rem;
+    font-weight: bold;
+    /* padding: 1rem; */
+    padding: .01rem;
+   
+}
+#output
+{
+    height: 20vh;
+
+}
